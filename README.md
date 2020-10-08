@@ -1,7 +1,7 @@
 ### Hello 🌐, this is Mayank Chotaliya
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ##ReactJS and React-Native##
+- 🔭 I’m currently working on github-finder using reactjs and context api's 
+- 🌱 I’m currently learning ReactJS and React-Native
 - 👯 I’m looking to collaborate on JavaScript, ReactJS, React-Native, Python
 - 🤔 I’m looking for help with my projects and mistakes in my projects
 - 💬 Ask me about Anything
