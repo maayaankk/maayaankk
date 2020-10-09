@@ -1,4 +1,4 @@
-### Hello ![hi](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif), this is Mayank Chotaliya
+### Hello ✋, this is Mayank Chotaliya
 
 - 🔭 I’m currently working on github-finder using reactjs and context api's 
 - 🌱 I’m currently learning ReactJS and React-Native
