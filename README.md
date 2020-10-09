@@ -1,7 +1,7 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, this is Mayank Chotaliya
 
 [![Gmail Badge](https://img.shields.io/badge/-mayankchotaliya2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mayankchotaliya2001@gmail.com)](mailto:mayankchotaliya2001@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-maayaankk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maayaankk/)](https://www.github.com/maayaankk/) [!
+[![Github Badge](https://img.shields.io/badge/-maayaankk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maayaankk/)](https://www.github.com/maayaankk/)
 
 - 🔭 I’m currently working on github-finder using reactjs and context api's 
 - 🌱 I’m currently learning ReactJS and React-Native
