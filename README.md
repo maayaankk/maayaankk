@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mayankchotaliya2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mayankchotaliya2001@gmail.com)](mailto:mayankchotaliya2001@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-maayaankk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maayaankk/)](https://www.github.com/maayaankk/)
 
-- 🔭 I’m currently working on github-finder using reactjs and context api's 
+- 🔭 I’m currently working on BlackBird(an online messenger) using reactjs and Redux
 - 🌱 I’m currently learning ReactJS and React-Native
 - 👯 I’m looking to collaborate on JavaScript, ReactJS, React-Native, Python
 - 🤔 I’m looking for help with my projects and mistakes in my projects
