@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Java, ReactJS and React-Native
 - 👯 I’m looking to collaborate on JavaScript, ReactJS, React-Native, Java
 - 🤔 I’m looking for help with my projects and mistakes in my projects
-- 📫 How to reach me:1. (E-mail) mayankchotaliya2001@gmail.com  
--                   2. (Github)  https://github.com/maayaankk  
+- 📫 How to reach me:1. (E-mail) mayankchotaliya2001@gmail.com  2. (Github)  https://github.com/maayaankk  
 
 
 
