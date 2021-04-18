@@ -18,9 +18,9 @@
  <p align=left> <img src=https://komarev.com/ghpvc/?username=maayaankk alt=maayaankk /> </p>
  
  
-[![Github stats](https://github-readme-stats.vercel.app/api?username=maayaankk&show_icons=true&include_all_commits=true)](https://github.com/maayaankk/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=maayaankk&show_icons=true&include_all_commits=true)](https://github.com/maayaankk/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maayaankk&layout=compact)](https://github.com/maayaankk/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maayaankk&layout=compact)](https://github.com/maayaankk/github-readme-stats)
+
  
  
 
