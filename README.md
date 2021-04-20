@@ -17,7 +17,7 @@
  
  ## My Tech skills include
 <p align='center'>
- <img src="https://img.flaticon.com/icons/png/512/174/174854.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="HTML" width="40" heigth="40" /> &nbsp;
+
 <img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
