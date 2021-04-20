@@ -22,7 +22,7 @@
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="react" width="40" height="40"/> &nbsp;
+<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="react" width="40" height="70"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://uploads-ssl.webflow.com/5ea7dc13785664a2a38ef5ec/5ea7dc1378566458078ef78f_React%20Native%20Logo.png" alt="react" width="40" height="40"/> &nbsp;
