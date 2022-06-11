@@ -20,7 +20,9 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="react" width="40" height="40"/> &nbsp;
- <img src= "https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
+<img src= "https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
+<img src= "https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="react" width="40" height="40"/> &nbsp;
+<img src= "https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
 <br>
 </p>
  
