@@ -25,6 +25,8 @@
 <img src= "https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
 <br>
 </p>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  
  
   <p align=left> <img src=https://komarev.com/ghpvc/?username=maayaankk alt=maayaankk /> </p>
@@ -33,7 +35,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=maayaankk&show_icons=true&include_all_commits=true)](https://github.com/maayaankk/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maayaankk&layout=compact)](https://github.com/maayaankk/github-readme-stats)
 
 
- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ 
  
 
 <!--
