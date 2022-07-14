@@ -33,7 +33,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=maayaankk&show_icons=true&include_all_commits=true)](https://github.com/maayaankk/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maayaankk&layout=compact)](https://github.com/maayaankk/github-readme-stats)
 
 
- 
+ <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  
 
 <!--
