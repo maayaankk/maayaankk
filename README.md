@@ -12,7 +12,7 @@
 <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
+<img src="https://vectorified.com/images/express-js-icon-12.png" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="react" width="40" height="40"/> &nbsp;
